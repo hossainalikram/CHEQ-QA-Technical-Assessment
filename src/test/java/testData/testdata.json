@@ -1,0 +1,9 @@
+[
+
+    {
+       "phone":"012-3456789",
+       "date":"12/04/2024",
+       "payment_method":"card",
+       "validation_text":"Thank you for validating your ticket"
+    }
+]

@@ -1,0 +1,192 @@
+Request method:	GET
+Request URI:	https://randomuser.me/api/
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Fri, 12 Apr 2024 20:11:19 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache
+ETag: W/"48b-DZscZf7rC1PMtcnm0LbXxVCnGIc"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2FKXyG2RrZq1cYQDfSEAnCcu44i2Icaup4FNtB%2BPCToJd2eqRIuEXVaYr9E9MUFZwC08Ea%2BIX%2FHviPu4Ha0nebFD%2FXaEsAxjkaWjQ2GigQMpZDCUiUqKPSPb4ycsnSNoS"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8735dd6319e74d87-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Anthony",
+                "last": "Edwards"
+            },
+            "location": {
+                "street": {
+                    "number": 5899,
+                    "name": "Station Road"
+                },
+                "city": "Roscrea",
+                "state": "South Dublin",
+                "country": "Ireland",
+                "postcode": 53118,
+                "coordinates": {
+                    "latitude": "-2.9528",
+                    "longitude": "-71.9092"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "anthony.edwards@example.com",
+            "login": {
+                "uuid": "03b9ccd7-8fb0-4f70-b1ba-7e59f8016446",
+                "username": "sadmouse540",
+                "password": "army",
+                "salt": "G7Td0BcS",
+                "md5": "a33c513819399bdba95ce7a3f6e7957c",
+                "sha1": "ff265cd61977e87e8894e19ca562cd680b694cb8",
+                "sha256": "8b0de7fdf599b12b5556fe5ebd6f2622e85c2ee14b41213276b5d70474dfa985"
+            },
+            "dob": {
+                "date": "1996-03-03T08:56:05.061Z",
+                "age": 28
+            },
+            "registered": {
+                "date": "2009-06-25T18:31:54.862Z",
+                "age": 14
+            },
+            "phone": "071-500-3224",
+            "cell": "081-873-6894",
+            "id": {
+                "name": "PPS",
+                "value": "3002335T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/58.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "602475da72886b07",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
+Request method:	GET
+Request URI:	https://randomuser.me/api/
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Date: Fri, 12 Apr 2024 20:11:21 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: Express
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache
+ETag: W/"491-lHi7YanjDjoS3jxBOBc31dXaILQ"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+CF-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ldTFq%2BVMQGF0fXpfl%2B%2Ft83tVH4gVgVDBcdNwnMHs7ebIcrSZtK%2FrNXrPwesWu4goNxGka1Zwk7Ryv7jfmODKFAadtPuLzTzeoZwp5l1sgd23tISKE6%2FJ3RnX3ELzfPXA"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+CF-RAY: 8735dd749e2e835c-SIN
+alt-svc: h3=":443"; ma=86400
+
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Monsieur",
+                "first": "Clément",
+                "last": "Fleury"
+            },
+            "location": {
+                "street": {
+                    "number": 5485,
+                    "name": "Rue Abel-Ferry"
+                },
+                "city": "Täsch",
+                "state": "Graubünden",
+                "country": "Switzerland",
+                "postcode": 5182,
+                "coordinates": {
+                    "latitude": "-63.4082",
+                    "longitude": "-176.4181"
+                },
+                "timezone": {
+                    "offset": "+9:30",
+                    "description": "Adelaide, Darwin"
+                }
+            },
+            "email": "clement.fleury@example.com",
+            "login": {
+                "uuid": "24e85d56-1ef5-4e32-b506-2e407c6e0055",
+                "username": "angrygorilla219",
+                "password": "friendly",
+                "salt": "f38t5ljn",
+                "md5": "3d3dcfaa701e91d05b5691394c090439",
+                "sha1": "5339a6b0884d85e54d2653f6b420e12a8b47f01c",
+                "sha256": "eb488bca51d057648e6cd22a1b0447cdd8db49d8b668c4c996249ac37c6895bc"
+            },
+            "dob": {
+                "date": "1995-09-22T06:46:08.732Z",
+                "age": 28
+            },
+            "registered": {
+                "date": "2007-08-26T23:47:47.754Z",
+                "age": 16
+            },
+            "phone": "078 490 03 36",
+            "cell": "075 844 34 12",
+            "id": {
+                "name": "AVS",
+                "value": "756.1230.3270.90"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/3.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+            },
+            "nat": "CH"
+        }
+    ],
+    "info": {
+        "seed": "f9dc57a69c08c5b8",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
