@@ -1,4 +1,4 @@
-# CHEQ-QA-Technical-Assessment
+# QA Technical Assessment for CHEQ by Cantaloupe
 This repository has been created to showcase the QA Technical Assessment as part of the recruitment procedure for CHEQ by Cantaloupe
 
 ## Overview
